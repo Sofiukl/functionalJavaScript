@@ -2,6 +2,10 @@
 
 /*
 	Advanced example of reduced higher order function
+
+	@author 	Sofikulm
+	@since 		veriso 1.0
+
 */
 
 const fs = require('fs');
@@ -80,6 +84,6 @@ console.log(JSON.stringify(salByDepartment));
 output: -
 	
 	{"Development":37000,"Business":110000,"Admin":40000}
-	
+
 */
 
