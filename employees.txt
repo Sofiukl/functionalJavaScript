@@ -1,0 +1,5 @@
+Sofikul Mallick	Development	10000
+Rakesh Das	Business	50000
+Firoja Khatun	Admin	40000
+Shalini Sinha	Development	27000
+Devashri Mukhapadhaya	Business	60000
