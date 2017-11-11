@@ -1,0 +1,25 @@
+{
+  "name": "functionaljavascript",
+  "version": "1.0.0",
+  "description": "A functional interest to solve real problems",
+  "main": "closure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofiukl/functionalJavaScript.git"
+  },
+  "keywords": [
+    "node",
+    "es6",
+    "javascript",
+    "functional"
+  ],
+  "author": "sofikulm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofiukl/functionalJavaScript/issues"
+  },
+  "homepage": "https://github.com/Sofiukl/functionalJavaScript#readme"
+}
