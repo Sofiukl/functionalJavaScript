@@ -24,3 +24,16 @@ console.log(name3StageOfCartoon('Pichu')('Pikachu')('Raichu'));
 //Good example can be seen in the source code of the functional library Ramda
 
 
+/**
+
+Lets create more examples on function curring
+
+**/
+
+let add = (a) => (b) => a+b;
+
+let add3 = add(3);
+
+console.log(add3(5));
+
+
